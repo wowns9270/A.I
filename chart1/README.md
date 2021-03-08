@@ -11,7 +11,7 @@
 
 ---
 
-### :graph: AI 정의
+### :tada: AI 정의
 
 > john McCarthy AI 의 목표는 마치 "지능이 있는 것처럼 행동"하는 기계를 개발하는 것. <-> Braitenberg vehicles
 
